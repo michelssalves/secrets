@@ -1,0 +1,11 @@
+tero mongodb instalado
+
+npm install
+
+npm i -g nodemon 
+
+npm install passport passport-local passport-local-mongoose express-session
+
+npm install bcrypt
+
+para startar o servidor executar o comando nodemon no terminal. o servico vai iniciar na porta 3000
